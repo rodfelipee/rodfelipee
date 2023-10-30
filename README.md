@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodfelipee/rodfelipee/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/rodfelipee/rodfelipee/main/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/rodfelipee/rodfelipee/main/README.pt-br.md)
 
 ![Profile Picture]()
 
