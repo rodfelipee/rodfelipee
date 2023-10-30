@@ -13,7 +13,7 @@ Hi there! I'm Felipe, a passionate Python FullStack developer with a strong focu
 - **Back-End**: Python, Django, Flask
 - **Database**: PostgreSQL, MySQL, MongoDB
 - **Version Control**: Git
-- **DevOps**: Docker, AWS
+- **DevOps**: Docker, AWS, Azure
 - **Testing**: Pytest, Jasmine
 - **Other Tools**: VS Code, GitLab, JIRA
 
