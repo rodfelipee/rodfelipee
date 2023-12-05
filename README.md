@@ -21,10 +21,10 @@ Hi there! I'm Felipe, a passionate Python FullStack developer with a strong focu
 
 - Bachelor of Science in Computer Science, UNIP - Universidade Paulista, 2020-2023
 
-## Projects
+<!--## Projects
 
 - [Project 1](link-to-project-1): A description of the project and your role in it.
-- [Project 2](link-to-project-2): Another project with your contributions.
+- [Project 2](link-to-project-2): Another project with your contributions.!-->
 
 ## Certifications
 
