@@ -1,5 +1,3 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodfelipee/rodfelipee/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/rodfelipee/rodfelipee/main/README.pt-br.md)
 
 ##
 
@@ -12,33 +10,20 @@ Hi there! I'm Felipe, a passionate Python FullStack developer with a strong focu
 ##
 ### Skills
 
-- **Front-End**: HTML, CSS, JavaScript, React, Redux, Vue.js
+- **Front-End**: HTML, CSS, JavaScript, TypeScript, React, Redux
 - **Back-End**: Python, Django, Flask
 - **Database**: PostgreSQL, MySQL, MongoDB
 - **Version Control**: Git
 - **DevOps**: Docker, AWS, Azure
 - **Testing**: Pytest, Jasmine
-- **Other Tools**:Github, GitLab, JIRA
+- **Other Tools**:Github, JIRA
 
 ##
 ### Education
 
 - Bachelor of Science in Computer Science, UNIP - Universidade Paulista, 2020-2023
 
-<!--## Projects
-
-- [Project 1](link-to-project-1): A description of the project and your role in it.
-- [Project 2](link-to-project-2): Another project with your contributions.!-->
-
 ##
-### Certifications
-
-- AWS Certified Cloud Practitioner - Amazon Web Services
-- Azure Fundamentals - AZ-900
-- Professional Scrum Master I - PSM I
-- Linux Essentials - LPI
-- TOEFL Essentials - ETS
-- Microsoft 365 Administrator - MS-102
 
 ##
 ### Contact
